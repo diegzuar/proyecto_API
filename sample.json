@@ -1,0 +1,45 @@
+
+[
+    {
+    "id":"1",
+    "nombre": "señor de los anillos",
+    "director": "peter Jackson",
+    "years": "2001",
+    "genero": "Gothmog",
+    "premiaciones": "17 premios oscar"
+    },
+    {
+    "id":"2",
+    "nombre": "avatar",
+    "director":"James cameron",
+    "years":"2009",
+    "genero":"fantasia,aventura",
+    "premiaciones": "premios oscar y globos de oro"
+    },
+    {
+    "id":"3",
+    "nombre":"rapidos y furiosos",
+    "director":"Justin Lin",
+    "years":"2001",
+    "genero":"accion,crimen",
+    "premiaciones":"premio saturn"
+    },
+    {
+    "id":"4",
+    "nombre":"Harry Potter",
+    "director":"Chris Columbus",
+    "years":"2001",
+    "genero":"fantasia,aventura,terror",
+    "premiaciones":"prata Award,premios Hugo,etc"
+    },
+    {
+    "id":"5",
+    "nombre":"Saw",
+    "director":"James Wan",
+    "years":"2004",
+    "genero":"terror,gore",
+    "premiaciones":"ninguno"
+    }
+]
+
+   
